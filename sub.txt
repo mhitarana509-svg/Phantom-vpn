@@ -1,0 +1,11 @@
+vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-3.eu-ffast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=par.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&type=tcp#🇫🇷 Франция
+
+vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-8.eu-ffast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ams.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&type=tcp#🇳🇱 Нидерланды
+
+vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-11.eu-ffast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lax.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&type=tcp#🇺🇸 США
+
+vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@testfast.country-1.eu-ffast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&type=tcp#🇩🇪 Германия
+
+vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-4.eu-ffast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lon.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&type=tcp#🇬🇧 Великобритания
+
+vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-10.eu-ffast.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&type=tcp#🇷🇺 Россия YouTube
